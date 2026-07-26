@@ -4,6 +4,7 @@ Public workshop materials for practical Microsoft 365 Copilot and Copilot Studio
 
 ## Learning materials
 
+- [`IT-READINESS-CHECKLIST.md`](./IT-READINESS-CHECKLIST.md): client IT preparation, network-access validation, rehearsal, and sign-off
 - [`exercises/`](./exercises/): learner-facing, step-by-step exercises
 - [`files/`](./files/): sample files used during practice
 
