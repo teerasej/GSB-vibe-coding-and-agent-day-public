@@ -34,3 +34,21 @@
 - Dashboard screen
 - Branding
 - Search and filtering
+
+## Agent-building Activity Details
+
+### 13:45–14:30 — Build a Sample Agent
+
+- Access the Copilot Studio portal
+- Create an agent with a prompt
+- Select a model
+- Test your agent live
+- Update and tune the instructions
+- Add Knowledge
+
+### 14:45–15:30 — Continue Building the Sample Agent
+
+- Work with Tools
+- Define an agent flow as a Tool
+- Add the agent flow to Tools
+- Test the active Tools
