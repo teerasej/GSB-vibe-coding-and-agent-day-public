@@ -1,19 +1,10 @@
 # GSB Vibe Coding and Agent Day
 
-Public workshop materials for practical Microsoft 365 Copilot and Copilot Studio learning.
+ สวัสดีครับ พลได้ทำการออกแบบเวิร์คช็อปสำหรับการเรียนรู้ในส่วนของ Power App แบบ Vibe Coding และ Copilot Studio สsำหรับทุกท่านในที่นี้หวังว่าจะชอบนะครับ
 
-## Learning materials
+## สื่อการเรียนรู้
 
-- [`IT-READINESS-CHECKLIST.md`](./IT-READINESS-CHECKLIST.md): client IT preparation, network-access validation, rehearsal, and sign-off
-- [`exercises/`](./exercises/): learner-facing, step-by-step exercises
-- [`files/`](./files/): sample files used during practice
+- [`IT-READINESS-CHECKLIST.md`](./IT-READINESS-CHECKLIST.md): การเตรียมความพร้อมของระบบสำหรับ, การตรวจสอบการเข้าถึงเครือข่าย, การซ้อม, และการลงนามรับรอง
+- [`exercises/`](./exercises/): แบบฝึกหัดแบบลำดับขั้นสำหรับผู้เรียน
+- [`files/`](./files/): ไฟล์ตัวอย่างที่ใช้ในการฝึกปฏิบัติ
 
-Each exercise should use a realistic business scenario, provide copy-ready prompts, and clearly state any license requirements.
-
-## Public-content boundary
-
-This repository is public. Do not add client-confidential information, internal notes, personal contact details, proprietary documents, or files copied from the private workspace. Generalize and sanitize all examples before publication.
-
-## Contributing
-
-Read [`CONTRIBUTING.md`](./CONTRIBUTING.md) before proposing a change.
