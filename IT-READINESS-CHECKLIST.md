@@ -8,7 +8,7 @@
 
 > สามารถกำหนด environment แยกตามผู้เรียน (1 environment ต่อผู้เรียน) หรือใช้ environment เดียวกันสำหรับผู้เรียนหลายคนก็ได้ แต่ต้องมีการจัดการสิทธิ์และการเข้าถึงอย่างเหมาะสม
 
-- [ ] **สร้าง environment ใหม่**; หลีกเลี่ยง Default หรือ Production environment ถ้าทำได้ห
+- [x] **สร้าง environment ใหม่**; หลีกเลี่ยง Default หรือ Production environment ถ้าทำได้ห
 - [ ] ตั้งค่า environment ใหม่ดังนี้
   - **Type: Developer**
   - **Region: United States**
@@ -37,9 +37,9 @@
 - [ ] ยืนยันว่า training environment อยู่ใน region ที่รองรับ และไม่ใช่ Default environment
 - [ ] ยืนยันว่าผู้เข้าอบรมสามารถเปิด [Power Apps vibe](https://vibe.preview.powerapps.com/) หรือ [Power Apps preview](https://make.preview.powerapps.com/) ได้
   - ภาพตัวอย่างถ้า environment ไม่รองรับ: 
-  ![Power Apps vibe experience not available](images/environment-not-support-vibe-coding.png)
+  ![Power Apps vibe experience not available](https://raw.githubusercontent.com/teerasej/GSB-vibe-coding-and-agent-day-public/main/images/environment-not-support-vibe-coding.png)
   - ภาพตัวอย่างถ้า environment รองรับ: 
-  ![Power Apps vibe experience available](images/power-app-vibe-coding.png)
+  ![Power Apps vibe experience available](https://raw.githubusercontent.com/teerasej/GSB-vibe-coding-and-agent-day-public/main/images/power-app-vibe-coding.png)
 
 
 ## 5. Network และเครื่องที่ใช้อบรม
