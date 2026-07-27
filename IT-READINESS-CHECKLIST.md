@@ -8,7 +8,7 @@
 
 > สามารถกำหนด environment แยกตามผู้เรียน (1 environment ต่อผู้เรียน) หรือใช้ environment เดียวกันสำหรับผู้เรียนหลายคนก็ได้ แต่ต้องมีการจัดการสิทธิ์และการเข้าถึงอย่างเหมาะสม
 
-- [x] **สร้าง environment ใหม่**; หลีกเลี่ยง Default หรือ Production environment ถ้าทำได้ห
+- [ ] **สร้าง environment ใหม่**; หลีกเลี่ยง Default หรือ Production environment ถ้าทำได้ห
 - [ ] ตั้งค่า environment ใหม่ดังนี้
   - **Type: Developer**
   - **Region: United States**
@@ -18,6 +18,7 @@
   - Environment group: None
   - Managed: No
   - Get new features early: No
+  **- Language: English (United States)**
 
 
 ## 2. Accounts, licenses, and roles
@@ -34,7 +35,9 @@
 ## 3. การเปิดใช้งาน the Power Apps vibe experience
 
 - [ ] ใน [Power Platform admin center > Tenant Setting](https://admin.powerplatform.microsoft.com/manage/tenantsettings) ให้เปิดใช้งาน **Copilot in Power Apps (preview)** ในระดับ tenant
-- [ ] ยืนยันว่า training environment อยู่ใน region ที่รองรับ และไม่ใช่ Default environment
+  ![alt text](https://raw.githubusercontent.com/teerasej/GSB-vibe-coding-and-agent-day-public/main/images/power-platform-admin-manage-tenant-setting-copilot-in-power-app.png.png)
+- [ ] เพื่อคุณภาพของแอปที่ดีขึ้น ให้เปิดใช้งาน **Anthropic models** โดยไปที่ [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/) > **Environments** > **[ชื่อของ Environment]** > **Settings** > **Features** > **Enable External Models**
+- [ ] ยืนยันให้แน่ใจว่า training environment ที่สร้างขึ้นมา อยู่ใน region ที่รองรับ (ค่าเริ่มต้นคือ United States) และไม่ใช่ Default environment ขององค์กร
 - [ ] ยืนยันว่าผู้เข้าอบรมสามารถเปิด [Power Apps vibe](https://vibe.preview.powerapps.com/) หรือ [Power Apps preview](https://make.preview.powerapps.com/) ได้
   - ภาพตัวอย่างถ้า environment ไม่รองรับ: 
   ![Power Apps vibe experience not available](https://raw.githubusercontent.com/teerasej/GSB-vibe-coding-and-agent-day-public/main/images/environment-not-support-vibe-coding.png)
