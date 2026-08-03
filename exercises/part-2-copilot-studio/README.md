@@ -16,6 +16,12 @@
 
 [ดาวน์โหลด Day 3 sample files ทั้งหมด (.zip)](https://github.com/teerasej/GSB-vibe-coding-and-agent-day-public/raw/refs/heads/main/exercises/part-2-copilot-studio/downloads/gsb-part-2-sample-files.zip)
 
+ดาวน์โหลดไฟล์แยก:
+
+- [GSB Monthly Financial Report - May 2026 (.xlsx)](https://github.com/teerasej/GSB-vibe-coding-and-agent-day-public/raw/refs/heads/main/exercises/part-2-copilot-studio/files/GSB-Monthly-Financial-Report-May2026.xlsx)
+- [Financial Report Distribution Policy Knowledge (.docx)](https://github.com/teerasej/GSB-vibe-coding-and-agent-day-public/raw/refs/heads/main/exercises/part-2-copilot-studio/files/financial-report-distribution-policy-knowledge.docx)
+- [Financial Report Technical Terms Knowledge (.docx)](https://github.com/teerasej/GSB-vibe-coding-and-agent-day-public/raw/refs/heads/main/exercises/part-2-copilot-studio/files/financial-report-technical-terms-knowledge.docx)
+
 ถ้าต้องการเปิดดูรายชื่อไฟล์แยกกัน ให้ใช้โฟลเดอร์ [`files/`](files/)
 
 

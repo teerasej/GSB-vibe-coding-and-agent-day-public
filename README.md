@@ -5,8 +5,7 @@
 
 ## เอกสาร
 
-- [`AGENDA.md`](./AGENDA.md): กำหนดการและตารางกิจกรรมของเวิร์คช็อป
-- [`IT-READINESS-CHECKLIST.md`](./IT-READINESS-CHECKLIST.md): การเตรียมความพร้อมของระบบสำหรับ, การตรวจสอบการเข้าถึงเครือข่าย, การซ้อม, และการลงนามรับรอง
+- [ดาวน์โหลดสไลด์ GSB Vibe Day - Power App and Copilot Studio (.pdf)](https://github.com/teerasej/GSB-vibe-coding-and-agent-day-public/raw/refs/heads/main/files/GSB%20Vibe%20Day%20-%20power%20app%20and%20copilot%20studio.pdf)
 
 ## แบบฝึกหัด
 
@@ -27,3 +26,7 @@
 | 4 | Build the Report Intake Topic (Excel + Prompt node) | [README.md](./exercises/part-2-copilot-studio/exercise-4-topic/README.md) |
 | 5 | Select channel, publish, and validate in Microsoft 365 Copilot | [README.md](./exercises/part-2-copilot-studio/exercise-5-channel-and-publishing/README.md) |
 
+## เอกสารประกอบอื่น ๆ
+
+- [`AGENDA.md`](./AGENDA.md): กำหนดการและตารางกิจกรรมของเวิร์คช็อป
+- [`IT-READINESS-CHECKLIST.md`](./IT-READINESS-CHECKLIST.md): การเตรียมความพร้อมของระบบสำหรับ, การตรวจสอบการเข้าถึงเครือข่าย, การซ้อม, และการลงนามรับรอง
