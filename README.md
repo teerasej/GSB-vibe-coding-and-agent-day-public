@@ -18,6 +18,8 @@
 
 ### ช่วงบ่าย: Copilot Studio
 
+[เช็ค environment บน Copilot Studio](https://copilotstudio.microsoft.com)
+
 | ลำดับ | แบบฝึกหัด | ลิงก์ |
 |---|---|---|
 | 1 | Create the Financial Report Assistant Agent | [README.md](./exercises/part-2-copilot-studio/exercise-1-create-financial-agent/README.md) |
